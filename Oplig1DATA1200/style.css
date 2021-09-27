@@ -94,5 +94,8 @@ img {
 .left {
     float: left;
     border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
     width: 50%;
+
 }
