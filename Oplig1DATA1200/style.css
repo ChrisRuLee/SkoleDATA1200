@@ -74,6 +74,7 @@ img {
 }
 #footerBoxr{
     float:left;
+    text-align:center;
     background: white;
     width:50%;
     height:280px;
