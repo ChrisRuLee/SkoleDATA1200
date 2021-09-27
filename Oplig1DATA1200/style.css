@@ -61,12 +61,14 @@ img {
 
 
 #footerBoxl {
+    padding-top: 2em;
     float:right; 
     background: white;
     width:25%;
     height:280px;
 }
 #footerBoxm{
+    padding-top: 2em;
     float:left; 
     text-align: center;
     background:white;
@@ -74,6 +76,7 @@ img {
     height:280px;
 }
 #footerBoxr{
+    padding-top: 2em;
     float:left;
     text-align:center;
     background: white;
