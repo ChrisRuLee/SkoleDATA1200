@@ -51,11 +51,7 @@ img {
     width: 50%;
 }
 
-#contacts {
-    float: left;
-
-}
-
-#openingHours {
-    float: right;
+.footerBox{
+    width: 33.33%;
+    padding: 5px;
 }
