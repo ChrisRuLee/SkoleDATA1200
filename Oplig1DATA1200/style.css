@@ -12,6 +12,9 @@ h2 {
     background-color: RGB(255, 239, 193);
     text-align: center;
     font-family: sans-serif;
-    
 }
-
+img {
+    width: "60%";
+    margin: "auto";
+    display: "block";
+}
