@@ -63,6 +63,7 @@ img {
 #footerBoxl {
     padding-top: 2em;
     float:right; 
+    text-align: center;
     background: white;
     width:25%;
     height:280px;
@@ -85,7 +86,7 @@ img {
 }
  hr {
     background-color: #f44336;
-    height: 2px;
+    height: 4px;
     border-width: 0px;
     margin-bottom: 0px;
 }
