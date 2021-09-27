@@ -1,6 +1,14 @@
 h1 { 
-    color: yellow;
+    color: rgb(28, 48, 28);
+    font-size: 40 px;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+h2,h3 {
+    color: rgb(28, 48, 28);
     font-size: 20 px;
-    background-color: aqua;
+    background-color: RGB(255, 239, 193);
+    
 }
 
