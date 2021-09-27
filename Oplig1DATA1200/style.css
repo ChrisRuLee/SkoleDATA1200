@@ -23,7 +23,8 @@ h2 {
 
 h3 {
     color: rgb(255, 202, 28); 
-    font-size: xx-large;   
+    font-size: xx-large; 
+    text-align: center;  
 }
 
 h4 {
