@@ -46,10 +46,6 @@ a {
 
 }
 
-#contact {
-    color:rgb(255, 202, 28);
-}
-
 p {
     color:rgb(255, 202, 28);
     font-size: small;
@@ -72,12 +68,15 @@ img {
     margin: auto;
     display: block;
 }
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+
+
 #footerBoxl {
     color: rgb(14, 90, 90);
     padding-top: 2em;
@@ -105,6 +104,19 @@ img {
     width:50%;
     height:330px;
 }
+
+#top {
+    color:rgb(255, 202, 28);
+    font-size: x-large;
+
+}
+
+#lunch{
+    color:rgb(255, 202, 28);
+    font-size: x-large;
+}
+
+
  hr {
     background-color: #f44336;
     height: 4px;
@@ -113,7 +125,6 @@ img {
 }
 
 .forsidebilde {
-    padding-top: 5px;
     display: block;
     margin-left: auto;
     margin-right: auto;
