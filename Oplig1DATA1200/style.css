@@ -94,6 +94,7 @@ img {
     background:white;
     width:25%;
     height:330px;
+    margin-bottom: none;
 }
 
 #footerBox2 {
@@ -104,6 +105,7 @@ img {
     background: white;
     width:50%;
     height:330px;
+    margin-bottom: none;
 }
 
 #footerBox3 {
