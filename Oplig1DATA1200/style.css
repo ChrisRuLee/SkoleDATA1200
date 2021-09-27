@@ -90,3 +90,8 @@ img {
     border-width: 0px;
     margin-bottom: 0px;
 }
+
+.left {
+    float: left;
+    border-radius: 10px;
+}
