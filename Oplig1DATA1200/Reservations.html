@@ -4,7 +4,11 @@
         <title>Contacts and reservations</title>
         <link href = "style.css" type = "text/css" rel = "stylesheet"/>
     </head>
-
+<script>
+    function myfunctionPopUp(){
+        alert("Your reservation has been booked.")
+    }
+</script>
 <body>
     <div class="overskrift">
     <header>
@@ -45,7 +49,7 @@
                 <option value="23:00">23:00</option>
               </select>
             
-              <input type="submit" value="Submit">
+              <input type="submit" value="Submit" onclick="myfunctionPopUp()">
             </form>
           </div>
         
