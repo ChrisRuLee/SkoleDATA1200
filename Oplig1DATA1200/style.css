@@ -61,6 +61,7 @@ img {
 
 
 #footerBoxl {
+    color: rgb(14, 90, 90);
     padding-top: 2em;
     float:right; 
     text-align: center;
@@ -69,6 +70,7 @@ img {
     height:280px;
 }
 #footerBoxm{
+    color: rgb(14, 90, 90);
     padding-top: 2em;
     float:left; 
     text-align: center;
@@ -77,6 +79,7 @@ img {
     height:280px;
 }
 #footerBoxr{
+    color:rgb(14, 90, 90);
     padding-top: 2em;
     float:left;
     text-align:center;
