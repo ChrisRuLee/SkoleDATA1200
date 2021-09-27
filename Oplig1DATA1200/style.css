@@ -1,9 +1,9 @@
 .overskrift {
-    background-color:rgb(245, 223, 153);
+    background-color:rgb(228, 215, 140);
     height: 100px;
     padding-top: 30px;
     padding-bottom: 15px;
-    border-radius: 25px;
+    border-radius: 0px 0px 15px 15px;
 }
 
 h1 { 
