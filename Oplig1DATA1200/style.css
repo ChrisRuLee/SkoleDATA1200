@@ -150,3 +150,12 @@ img {
     margin-right: auto;
     width: 50%;
 }
+
+.lefty {
+    display: flex;
+    align-items: center;
+}
+
+.leftytext {
+    padding: 10px;
+}
