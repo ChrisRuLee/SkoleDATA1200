@@ -34,8 +34,9 @@ p {
 
 body {
     background-color: rgb(14, 90, 90);
-    margin: 0;
+    margin: none;
     padding: 0;
+    border: 0;
 }
 img {
     width: 60%;
