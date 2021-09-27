@@ -63,19 +63,19 @@ img {
 #footerBoxl {
     float:right; 
     backgroun: white;
-    width:33,3%;
+    width:25%;
     height:280px;
 }
 #footerBoxm{
-    float:right; 
+    float:left; 
     background:white;
-    width:33,3%;
+    width:25%;
     height:280px;
 }
 #footerBoxr{
-    float:right;
+    float:left;
     background: white;
-    width:33,3%;
+    width:50%;
     height:280px;
 }
  hr {
