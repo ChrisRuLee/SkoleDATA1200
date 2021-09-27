@@ -54,3 +54,21 @@ img {
     width: 33.33%;
     padding: 5px;
 }
+#footerBoxl {
+    float:left; 
+    background:green;
+    width:25%;
+    height:280px;
+}
+#footerBoxm{
+    float:left; 
+    background:white;
+    width:50%;
+    height:280px;
+}
+#footerBoxr{
+    float:right;
+    background:red;
+    width:25%;
+    height:280px;
+}
