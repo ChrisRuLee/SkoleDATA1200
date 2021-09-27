@@ -4,7 +4,26 @@
         <link href = "style.css" type = "text/css" rel = "stylesheet"/>
         <title>Frontpage</title>
     </head>
-
+    <style>
+            #footerBoxl {
+                float:left; 
+                background:Red;
+                width:25%;
+                height:280px;
+            }
+            #footerBoxm{
+                float:left; 
+                background:Green;
+                width:50%;
+                height:280px;
+            }
+            #footerBoxr{
+                float:right;
+                background:blue;
+                width:25%;
+                height:280px;
+            }
+    </style>
     <body>
         <div class="overskrift">
             <header>
@@ -26,7 +45,7 @@
         </main>    
     
         <footer> <!-- Legge til bilde, adresse og contact, tre div -->
-            <div class="footerBox">
+            <div id="footerBoxl">
                 <a href="#top">Top</a> <br />
                 <a href="MenyWine.html">Menu</a> <br/>
                 <a href="Forside.html">Frontpage</a> <br />
@@ -34,7 +53,7 @@
                 <a href="OurChefs.html">Our Chefs</a> <br />
             </div>
 
-        <div class="footerBox">
+        <div id="footerBoxm">
                 <h2 id="opening_hours">opening hours</h2>
         
             <blockquote>Monday:     14:00 - 23:00</blockquote>
@@ -47,7 +66,7 @@
             <br />
         </div>
 
-        <div class="footerBox">
+        <div id="footerBoxr">
             <blockquote>Telephone: 555-603-999</blockquote>
             <blockquote>E-Mail: decapri@campari.co</blockquote>
         </div>
