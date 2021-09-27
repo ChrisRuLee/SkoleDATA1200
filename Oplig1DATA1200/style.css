@@ -21,6 +21,9 @@ p {
     background-color: rgb(53, 83, 53);
 }
 
+body {
+    background-color: rgb(14, 90, 90);
+}
 img {
     width: "60%";
     margin: "auto";
