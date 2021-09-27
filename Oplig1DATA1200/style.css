@@ -96,10 +96,15 @@ img {
     height:330px;
 }
 
-
-#lunch{
-    color:rgb(255, 202, 28);
-    font-size: x-large;
+#footerBox3 {
+    color: rgb(14, 90, 90);
+    padding-top: 2em;
+    float:right; 
+    text-align: center;
+    background: white;
+    width:25%;
+    height:330px;
+    line-height: 1.5;
 }
 
 #topMenu{
