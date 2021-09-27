@@ -3,12 +3,14 @@ h1 {
     font-size: 40 px;
     background-color: white;
     font-family: sans-serif;
+    text-align: center;
 }
 
 h2,h3 {
     color: rgb(28, 48, 28);
     font-size: 20 px;
     background-color: RGB(255, 239, 193);
+    text-align: center;
     
 }
 
