@@ -1,5 +1,6 @@
 .overskrift {
     background-color: white;
+    margin: 0;
 }
 
 h1 { 
@@ -33,7 +34,7 @@ p {
 
 body {
     background-color: rgb(14, 90, 90);
-    margin: none;
+    margin: 0 px;
 }
 img {
     width: 60%;
