@@ -1,5 +1,5 @@
 h1 { 
-    color: rgb(28, 48, 28);
+    color: rgb(53, 83, 53);
     font-size: 40 px;
     background-color: white;
     font-family: sans-serif;
@@ -13,6 +13,7 @@ h2 {
     text-align: center;
     font-family: sans-serif;
 }
+
 img {
     width: "60%";
     margin: "auto";
