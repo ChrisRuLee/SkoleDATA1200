@@ -68,6 +68,7 @@ img {
 }
 #footerBoxm{
     float:left; 
+    text-align: center;
     background:white;
     width:25%;
     height:280px;
