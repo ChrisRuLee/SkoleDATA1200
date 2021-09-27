@@ -82,5 +82,5 @@ img {
  hr {
     background-color: #f44336;
     height: 2px;
-    color: green;
- }
+    border-width: 0px;
+}
