@@ -63,6 +63,7 @@ img {
 #footerBoxl {
     padding-top: 2em;
     float:right; 
+    text-align: center;
     background: white;
     width:25%;
     height:280px;
