@@ -146,6 +146,7 @@ img {
     float:left;
     flex-basis: 50%;
     width: 100px;
+    height: 100px;
 }
 .text-col {
     float:right;
