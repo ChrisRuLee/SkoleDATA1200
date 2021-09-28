@@ -142,12 +142,9 @@ img {
     align-items:center;
 }
 
-.container > div {
-    flex-basis: 50%;
-}
-
 .img-col {
     float:left;
+    flex-basis: 50%;
 }
 .text-col {
     float:right;
