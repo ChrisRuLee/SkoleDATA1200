@@ -145,7 +145,7 @@ img {
 }
 
 .container {
-    display: flex;
+    display:block;
     align-items: center;
 }
 
