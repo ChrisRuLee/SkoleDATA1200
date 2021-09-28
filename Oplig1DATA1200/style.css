@@ -144,8 +144,14 @@ img {
     border-radius: 10px;
 }
 
-.floatleft {
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.img-col {
     float:left;
-    margin-left:0px;
-    margin-right:10px;
+}
+.text-col {
+    float:right;
 }
