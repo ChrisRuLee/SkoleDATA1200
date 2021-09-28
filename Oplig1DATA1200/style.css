@@ -146,5 +146,6 @@ img {
 
 .floatleft {
     float:left;
-    margin: auto;
+    margin-left:0px;
+    margin-right:10px;
 }
