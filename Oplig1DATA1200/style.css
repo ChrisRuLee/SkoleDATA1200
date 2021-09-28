@@ -144,6 +144,7 @@ img {
     border-radius: 10px;
 }
 
-.leftfig {
+.floatleft {
     float:left;
+    margin: auto;
 }
