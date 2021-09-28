@@ -151,11 +151,7 @@ img {
     width: 50%;
 }
 
-.lefty {
-    display: flex;
-    align-items: center;
-}
-
-.leftytext {
-    padding: 10px;
+.chris {
+    float:left;
+    width:50%;
 }
