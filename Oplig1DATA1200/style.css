@@ -87,13 +87,6 @@ img {
     display: block;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 #footerBox1 {
     color: rgb(14, 90, 90);
     padding-top: 2em;
@@ -145,15 +138,11 @@ img {
 }
 
 .container {
-    display:block;
-    align-items: center;
+    width: 100%;
 }
 
 .img-col {
     float:left;
-    margin:0px;
-    border:0px;
-    padding:0px;
 }
 .text-col {
     float:right;
