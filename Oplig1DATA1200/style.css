@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(255,202,28);
+
     font-size: medium;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -128,7 +128,7 @@ iframe {
 #topMenu{
     color:rgb(255, 202, 28);
     font-size: xx-large;
-    margin-bottom: -20;
+    margin-bottom: -20px;
 }
 
 #red{
@@ -138,7 +138,7 @@ iframe {
 
 #wine{
     margin-bottom: 0;
-    font-size: 22;
+    font-size: 22px;
 }
 
 hr {
@@ -160,10 +160,6 @@ hr {
     border-radius: 10px;
 }
 
-#forsidetekst {
-    font-size: xx-large;
-}
-
 .container {
     display:flex;
     align-items:center;
@@ -176,7 +172,11 @@ hr {
 }
 
 .text-col {
-    float:right;
+    float: center;
+}
+
+.text-col2 {
+margin-left: -100px;
 }
 
 .kokkebilder {
