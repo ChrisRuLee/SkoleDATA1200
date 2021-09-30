@@ -235,6 +235,7 @@ size: 500px;
 }
 form {
     text-align: center;
+    color: rgb(255, 202, 28);
 }
 
 #checkbox {
