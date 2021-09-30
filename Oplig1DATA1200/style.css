@@ -27,8 +27,8 @@ h3 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 
-    margin-bottom: 5;  
-    margin-top: 5;
+    margin-bottom: 5px;  
+    margin-top: 5px;
 
 }
 
@@ -37,8 +37,8 @@ h4 {
     font-size: large;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 40;
-    margin-bottom: 30;
+    margin-top: 40px;
+    margin-bottom: 30px;
 }
 
 h5 {
@@ -84,8 +84,8 @@ dl {
     color:rgb(255, 202, 28);
     font-size: large;
     text-align: center;
-    margin-bottom: 40;
-    margin-top: 10;
+    margin-bottom: 40px;
+    margin-top: 10px;
 }
 
 body {
@@ -181,14 +181,8 @@ hr {
 
 }
 
-.text-col {
-    float: center;
-    
-}
-
 .text-col2 {
 margin-right: 200px;
-size: 500px;
 }
 
 .kokkebilder {
