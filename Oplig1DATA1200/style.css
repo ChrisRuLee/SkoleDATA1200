@@ -24,7 +24,12 @@ h2 {
 h3 {
     color: rgb(255, 202, 28); 
     font-size: xx-large; 
-    text-align: center;  
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+    margin-bottom: 5;  
+    margin-top: 5;
+
 }
 
 h4 {
@@ -32,6 +37,8 @@ h4 {
     font-size: large;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40;
+    margin-bottom: 30;
 }
 
 h5 {
@@ -39,6 +46,7 @@ h5 {
     font-size: large;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 nav {
@@ -71,6 +79,8 @@ dl {
     color:rgb(255, 202, 28);
     font-size: large;
     text-align: center;
+    margin-bottom: 40;
+    margin-top: 10;
 }
 
 body {
@@ -117,6 +127,17 @@ img {
 #topMenu{
     color:rgb(255, 202, 28);
     font-size: xx-large;
+    margin-bottom: -20;
+}
+
+#red{
+    margin-top: 0;
+}
+
+
+#wine{
+    margin-bottom: 0;
+    font-size: 22;
 }
 
 hr {
@@ -124,14 +145,22 @@ hr {
     height: 4px;
     border-width: 0px;
     margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .forsidebilde {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    float:left;
+    margin-left: 75px;;
+    margin-right: 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     width: 50%;
     border-radius: 10px;
+}
+
+#forsidetekst {
+    font-size: xx-large;
 }
 
 .container {
@@ -151,9 +180,32 @@ hr {
 
 .kokkebilder {
     margin-left: 0px;
+    margin-bottom: 0px;
     width: 600px;
     height: 400px;
     border-radius: 0px 10px 10px 0px;
+}
+
+.wineline {
+    background-color: #f44336;
+    height: 1px;
+    border-width: 0px;
+    margin-bottom: 0px;
+}
+
+.wineline2 {
+    background-color: #f44336;
+    height: 2px;
+    border-width: 0px;
+    margin-bottom: 0px;
+}
+
+.kokketekst {
+    font-size: large;
+}
+
+#kokkeoverskrift {
+    font-size: large;
 }
 
 .contact a:link {
