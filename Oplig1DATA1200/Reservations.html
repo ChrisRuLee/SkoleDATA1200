@@ -6,8 +6,12 @@
         <link href = "style.css" type = "text/css" rel = "stylesheet"/>
     </head>
 <script>
+
+    var fName = document.getElementById("fname");
+    var lName = document.getElementById("lname");
+
     function myfunctionPopUp(){
-        alert("Your reservation has been booked.")
+        alert("Your reservation has been booked." + fName);
     }
 </script>
 <body>
