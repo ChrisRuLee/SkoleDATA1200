@@ -246,3 +246,8 @@ form {
 :focus {
     outline: solid 3px rgb(14, 45, 179);
 }
+ 
+ul {
+        list-style-type: none;
+        text-align: center;
+}
