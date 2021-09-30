@@ -156,6 +156,6 @@ hr {
     border-radius: 0px 10px 10px 0px;
 }
 
-blockquote dl a {
-    color: rgb(255, 202, 28) !important;
+.contact a:link {
+    color: rgb(255, 202, 28);
 }
