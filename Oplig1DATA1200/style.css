@@ -224,3 +224,7 @@ size: 500px;
 #maps {
     color: rgb(255, 202, 28);
 }
+
+form {
+    margin: auto;
+}
