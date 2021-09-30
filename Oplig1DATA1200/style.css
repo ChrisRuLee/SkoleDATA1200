@@ -137,7 +137,7 @@ iframe {
 
 #wine{
     margin-bottom: 0;
-    font-size: 22;
+    font-size: 22px;
 }
 
 hr {
@@ -159,10 +159,6 @@ hr {
     border-radius: 10px;
 }
 
-#forsidetekst {
-    font-size: xx-large;
-}
-
 .container {
     display:flex;
     align-items:center;
@@ -174,8 +170,20 @@ hr {
 
 }
 
+.img-col2 {
+    float:left;
+    flex-basis: 50%;
+
+}
+
 .text-col {
-    float:right;
+    float: center;
+    
+}
+
+.text-col2 {
+margin-right: 200px;
+size: 500px;
 }
 
 .kokkebilder {
@@ -220,4 +228,7 @@ hr {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: x-large;
+}
+form {
+    text-align: center;
 }
