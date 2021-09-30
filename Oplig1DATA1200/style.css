@@ -92,6 +92,7 @@ iframe {
     width: 60%;
     margin: auto;
     display: block;
+    padding-bottom: 1em;
 }
 
 #footerBox1 {
