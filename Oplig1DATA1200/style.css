@@ -68,6 +68,10 @@ a {
     color:rgb(53, 235, 235);
 }
 
+a:hover {
+    color: #f44336;
+}
+
 p {
     color:rgb(255, 202, 28);
     font-size: small;
