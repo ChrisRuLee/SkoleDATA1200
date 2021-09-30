@@ -24,7 +24,8 @@ h2 {
 h3 {
     color: rgb(255, 202, 28); 
     font-size: xx-large; 
-    text-align: center;  
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h4 {
@@ -124,6 +125,7 @@ hr {
     height: 4px;
     border-width: 0px;
     margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .forsidebilde {
@@ -157,7 +159,16 @@ hr {
 
 .kokkebilder {
     margin-left: 0px;
+    margin-bottom: 0px;
     width: 600px;
     height: 400px;
     border-radius: 0px 10px 10px 0px;
+}
+
+.kokketekst {
+    font-size: large;
+}
+
+#kokkeoverskrift {
+    font-size: large;
 }
