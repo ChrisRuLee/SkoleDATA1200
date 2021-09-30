@@ -1,7 +1,7 @@
 # SkoleDATA1200
 
 Oblig 1 - Oppgaver for DATA1200
-av Chris(), Ingrid(), Haris(), Magnus().
+av Christoffer Leegaard(s362069), Ingrid Lunde(s338231), Haris Maroof(s362062), Magnus Høistad(s362051).
 
 Velkommen til nettside vår for restauranten “Resturante de Caprio”. 
 
