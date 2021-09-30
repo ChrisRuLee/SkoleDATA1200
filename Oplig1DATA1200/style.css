@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(255, 202, 28);
+
     font-size: medium;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -88,10 +88,11 @@ body {
     margin: 0px;
 }
 
-img {
+iframe {
     width: 60%;
     margin: auto;
     display: block;
+    padding-bottom: 2em;
 }
 
 #footerBox1 {
