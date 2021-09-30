@@ -166,3 +166,7 @@ hr {
 .contact a:link {
     color: rgb(255, 202, 28);
 }
+
+#maps a:link {
+    color: rgb(255, 202, 28);
+}
