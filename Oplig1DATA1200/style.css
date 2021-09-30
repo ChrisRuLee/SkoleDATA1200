@@ -128,10 +128,17 @@ hr {
 
 .forsidebilde {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    float:left;
+    margin-left: 75px;;
+    margin-right: 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     width: 50%;
     border-radius: 10px;
+}
+
+#forsidetekst {
+    font-size: xx-large;
 }
 
 .container {
