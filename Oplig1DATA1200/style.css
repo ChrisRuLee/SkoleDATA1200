@@ -157,6 +157,6 @@ hr {
 }
 
 .mails {
-    color: rgb(255, 202, 28);
-    
+    color: rgb(255, 202, 28) !important;
+
 }
