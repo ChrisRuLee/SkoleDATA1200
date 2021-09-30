@@ -240,3 +240,7 @@ form {
 #checkbox {
     text-align: center;
 }
+
+.navig a:hover {
+    color: rgb(255, 202, 28);
+}
