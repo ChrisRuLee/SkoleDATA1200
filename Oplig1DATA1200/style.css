@@ -26,8 +26,10 @@ h3 {
     font-size: xx-large; 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+
     margin-bottom: 5;  
     margin-top: 5;
+
 }
 
 h4 {
@@ -143,14 +145,22 @@ hr {
     height: 4px;
     border-width: 0px;
     margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .forsidebilde {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    float:left;
+    margin-left: 75px;;
+    margin-right: 35px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     width: 50%;
     border-radius: 10px;
+}
+
+#forsidetekst {
+    font-size: xx-large;
 }
 
 .container {
@@ -170,10 +180,12 @@ hr {
 
 .kokkebilder {
     margin-left: 0px;
+    margin-bottom: 0px;
     width: 600px;
     height: 400px;
     border-radius: 0px 10px 10px 0px;
 }
+
 .wineline {
     background-color: #f44336;
     height: 1px;
@@ -186,4 +198,20 @@ hr {
     height: 2px;
     border-width: 0px;
     margin-bottom: 0px;
+}
+
+.kokketekst {
+    font-size: large;
+}
+
+#kokkeoverskrift {
+    font-size: large;
+}
+
+.contact a:link {
+    color: rgb(255, 202, 28);
+}
+
+#maps {
+    color: rgb(255, 202, 28);
 }
