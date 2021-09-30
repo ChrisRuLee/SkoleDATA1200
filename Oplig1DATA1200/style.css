@@ -172,7 +172,8 @@ hr {
 }
 
 .text-col {
-    float: right;
+    float: center;
+    
 }
 
 .text-col2 {
