@@ -62,6 +62,7 @@ nav a {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    
 }
 
 a {
@@ -249,5 +250,5 @@ form {
 }
 
 :focus {
-    outline: 5px rgb(14, 45, 179);
+    outline: solid 3px rgb(14, 45, 179);
 }
